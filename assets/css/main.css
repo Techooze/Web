@@ -541,6 +541,12 @@ h6 {
   padding-top: 0;
 }
 
+/* New styles for Latest Updates */
+.footer .footer-links:last-child {
+  padding: 20px 0; /* Increase padding for Latest Updates */
+  flex: 2; /* If using flexbox, this will give it double the space */
+}
+
 .footer .footer-links ul a {
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   display: inline-block;
