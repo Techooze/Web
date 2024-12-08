@@ -532,19 +532,13 @@ h6 {
 }
 
 .footer .footer-links ul li {
-  padding: 10px 0;
+  padding: 20px 0;
   display: flex;
   align-items: center;
 }
 
 .footer .footer-links ul li:first-child {
   padding-top: 0;
-}
-
-/* New styles for Latest Updates */
-.footer .footer-links:last-child {
-  padding: 20px 0; /* Increase padding for Latest Updates */
-  flex: 2; /* If using flexbox, this will give it double the space */
 }
 
 .footer .footer-links ul a {
