@@ -532,13 +532,13 @@ h6 {
 }
 
 .footer .footer-links ul li {
-  padding: 20px 0;
+  padding: 10px 0;
   display: flex;
   align-items: center;
 }
 
 .footer .footer-links ul li:first-child {
-  padding-top: 0;
+  padding-top: 10px 0;
 }
 
 .footer .footer-links ul a {
